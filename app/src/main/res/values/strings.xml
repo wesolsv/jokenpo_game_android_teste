@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jo Ken Po Game</string>
+    <string name="app_choice">Escolha do App</string>
+    <string name="choose_option">Esolha uma opção abaixo</string>
+    <string name="you_win">Você Ganhou :)</string>
+    <string name="you_lose">Você Perdeu :/</string>
+</resources>
