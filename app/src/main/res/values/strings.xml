@@ -4,4 +4,5 @@
     <string name="choose_option">Esolha uma opção abaixo</string>
     <string name="you_win">Você Ganhou :)</string>
     <string name="you_lose">Você Perdeu :/</string>
+    <string name="a_tie">Empate!</string>
 </resources>
